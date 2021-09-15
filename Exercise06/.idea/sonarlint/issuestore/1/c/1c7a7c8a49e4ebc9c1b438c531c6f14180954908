@@ -1,0 +1,10 @@
+
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(³‰Ãïüÿÿÿÿ
+E
+java:S1874"/Remove this use of "getYear"; it is deprecated.(èæöù
+`
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(ğßÓƒúÿÿÿÿ
+=
+java:S1659%"'Declare "retireAge" on a separate line.(’½€Ã
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş›)
