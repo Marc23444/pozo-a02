@@ -1,2 +1,4 @@
-package MainSolution;public class Solution07 {
+package MainSolution;
+
+public class Solution07 {
 }
