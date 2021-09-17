@@ -1,2 +1,7 @@
-package MainSolution;public class Solution08 {
+package MainSolution;
+
+public class Solution08 {
+    public static void main(String[] args) {
+
+    }
 }
