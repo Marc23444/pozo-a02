@@ -49,7 +49,7 @@ public class Solution12 {
         interest = Math.ceil(interest);
         interest = interest /100;
 
-        System.out.printf("After %.1f years at %c%.1f, the investment will be worth $%.2f",years,'%',ROF * 100,interest);
+        System.out.printf("After %.1f years at %.1f%c, the investment will be worth $%.2f",years,ROF * 100,'%',interest);
 
 
     }
