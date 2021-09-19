@@ -42,10 +42,6 @@ public class Solution15 {
     private static boolean passwordCheck(String password)
     {
         String knownPass = "abc$123";
-        if(password.equals(knownPass))
-        {
-            return true;
-        }
-        return false;
+        return password.equals(knownPass);
     }
 }
