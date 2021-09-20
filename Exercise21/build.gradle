@@ -1,6 +1,5 @@
 plugins {
     id 'java'
-	id 'application'
 }
 
 group 'org.example'
@@ -17,10 +16,4 @@ dependencies {
 
 test {
     useJUnitPlatform()
-}
-run{
-    standardInput = System.in
-}
-application{
-    mainClassName = "MainSolution.Solution08"
 }
