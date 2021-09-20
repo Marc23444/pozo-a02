@@ -1,0 +1,8 @@
+
+7
+java:S1659"!Declare "tax" on a separate line.(¾à‘
+?
+java:S1659"$Declare "county" on a separate line.(«êÖÿÿÿÿÿ
+l
+java:S34578"Q%n should be used in place of \n to produce the platform-specific line separator.(­Ù¤‚ÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş›)

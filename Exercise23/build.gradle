@@ -22,5 +22,5 @@ run{
     standardInput = System.in
 }
 application{
-    mainClassName = "MainSolution.Solution08"
+    mainClassName = "MainSolution.Solution23"
 }
